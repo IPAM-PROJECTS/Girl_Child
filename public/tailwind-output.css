@@ -676,6 +676,7 @@ video {
   .nav-link:active {
     color: #fd2901;
   }
+  
 
   .nav-item.donate {
     border: 4px rgb(236, 82, 66) solid;

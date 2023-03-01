@@ -68,10 +68,26 @@ a {
 
   .navLink:hover {
     color: #fd2901;
+    text-decoration: underline;
+    text-transform: capitalize;
+    border-bottom-width: 2px;
+    border-bottom-color: #fd2901; 
+  }
+  .live{
+    color: #fd2901;
+    text-decoration: underline;
+    text-transform: capitalize;
+    border-bottom-width: 3px;
+    border-bottom-right-radius: 5;
+    border-bottom-color: #fd2901;
   }
 
   .navLink:active {
     color: #fd2901;
+    text-decoration: underline;
+    text-transform: capitalize;
+    border-bottom-width: 2px;
+    border-bottom-color: #fd2901; 
   }
 
   .nav-item.donate {
