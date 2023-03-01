@@ -77,7 +77,7 @@ a {
     color: #fd2901;
     /* text-decoration: underline; */
     text-transform: capitalize;
-    border-bottom-width: 3px;
+    border-bottom-width: 2px;
     border-bottom-right-radius: 5;
     border-bottom-color: #fd2901;
   }
@@ -86,7 +86,7 @@ a {
     color: #fd2901;
     /* text-decoration: underline; */
     text-transform: capitalize;
-    border-bottom-width: 2px;
+    border-bottom-width: 1px;
     border-bottom-color: #fd2901; 
   }
 
